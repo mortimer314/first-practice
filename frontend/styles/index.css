@@ -2,9 +2,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    
 }
 
 .first-text {
     color: blue;
-    font-size: 4rem;
+    background-color: red;
+    font-size: rem;
 }
