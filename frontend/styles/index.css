@@ -4,7 +4,10 @@ body {
     align-items: center;
 }
 
-.first-text {
+.first-text {  
     color: blue;
     font-size: 4rem;
+}
+p{
+font-size:2rem;
 }
